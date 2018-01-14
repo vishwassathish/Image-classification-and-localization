@@ -2,13 +2,13 @@
 Image classifier for the VOC-2010 Dataset with and without Transfer Learning. 
 Deep Convolutional Networks were used for classification and localization.
 
-Packages and Dependencies Required :-
-	Keras (Tensorflow Background)
-	matplotlib
-	PIL (pillow)
-	jupyter notebook
-	numpy
-	pickle
+Packages and Dependencies Required :- <br />
+	Keras (Tensorflow Background) <br />
+	matplotlib <br />
+	PIL (pillow) <br />
+	jupyter notebook <br />
+	numpy <br />
+	pickle <br />
 
 -> All the programs and networks are in "Codes" folder. Both ".py" and ".ipynb" (using jupyter notebook) files are attached.
 
