@@ -10,7 +10,6 @@ Packages and Dependencies Required :- <br />
 	numpy <br />
 	pickle <br />
 
--> All the programs and networks are in "Codes" folder. Both ".py" and ".ipynb" (using jupyter notebook) files are attached.
 
 -> NNfunctions.py is a program with all the utility functions used for Dataset creation  and Image localization.
 
